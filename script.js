@@ -4,7 +4,7 @@ function updateStatus() {
     const statusPara = document.getElementById("status-text");
 
     // 2. Change the text
-    statusPara.innerText = "Task completed! Notification sent!";
+    statusPara.innerText = "Task completed! Notification sent.";
     statusPara.style.color = "green";
 }
 
